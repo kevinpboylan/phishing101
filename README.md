@@ -1,6 +1,8 @@
 # PHISHING 101
 # Demonstration of a phishing attack 
 
+(This project done in collaboration with [Joe Kramer](https://github.com/Githubjoe999) and [Josh Sitompul](GitHub.com/korvuswraith))
+
 In this project, we wanted to demonstrate how a phishing attack works, and then use the demonstration to deliver a lesson on avoiding phishing attacks in the future. 
 
 *Everything in this demo is for educational purposes only.  These techniques can cause serious harm - do not use them in an illegal or malicious way.*
