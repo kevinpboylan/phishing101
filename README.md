@@ -3,7 +3,15 @@
 
 In this project, we wanted to demonstrate how a phishing attack works, and then use the demonstration to deliver a lesson on avoiding phishing attacks in the future. 
 
-*Everything in this demo is for educational purposes only.  These techniques can cause serious harm - do not use them in the wrong way.*
+*Everything in this demo is for educational purposes only.  These techniques can cause serious harm - do not use them in an illegal or malicious way.*
+
+## Educational Deck
+
+You can view the educational module [here](https://docs.google.com/presentation/d/1tHViKoNmyG9BW4bdVqVQzv6lz4ILUpxxzoyB1XbFikY/edit?usp=sharing) (made on Google Slides).
+
+## Video Presentation
+
+(space reserved for link to video)
 
 ## Background
 
