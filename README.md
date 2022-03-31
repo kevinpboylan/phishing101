@@ -51,7 +51,7 @@ We made the payload using msfvenom that was set to reach out to the URL from ngr
 
 Once we had the technical parts of the project finished, the educational content wwas the last part to figure out.  We knew we wanted to use this as an opportunity to teach viewers about phishing attacks - what they are, how they work, and most importantly, how to avoid getting caught in one.  This part was more straightforward, but it boiled down to getting some good stats on phishing attacks in the wild, and coming up with some useful tips on how to identify suspicious emails. 
 
-This part of the project also hopefully showcases our communication skils, as well as our ability to create and deliver training materials. 
+This part of the project also hopefully showcases our communication skills, as well as our ability to create and deliver training materials. 
 
 ## Conclusion
 
