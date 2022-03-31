@@ -1,5 +1,5 @@
 # PHISHING 101
-This project is a collaboration between myself, [Joe Kramer](https://github.com/Githubjoe999), and [Josh Sitompul](GitHub.com/korvuswraith).
+This project is a collaboration between [Kevin Boylan](https://github.com/kevinpboylan), [Joe Kramer](https://github.com/Githubjoe999), and [Josh Sitompul](GitHub.com/korvuswraith).
 
 # Demonstration of a phishing attack 
 
