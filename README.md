@@ -13,7 +13,7 @@ You can view the educational module [here](https://docs.google.com/presentation/
 
 ## Video Presentation
 
-(space reserved for link to video)
+[Click here](https://www.youtube.com/watch?v=oX1QLf-d5xE&list=PLsNgPVNMTQYRWKn759PgzvXGrHPrwuMPp&index=2) to see our project in video form
 
 ## Background
 
